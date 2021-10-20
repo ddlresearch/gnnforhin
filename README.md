@@ -78,4 +78,7 @@ Heterogeneous network embedding:
 
 * [Pan Z, Cai F, Chen W, et al. Star graph neural networks for session-based recommendation[C]//Proceedings of the 29th ACM International Conference on Information & Knowledge Management. 2020: 1195-1204.](https://dl.acm.org/doi/abs/10.1145/3340531.3412014)
 
+Tabular Data Modeling:
+----
 
+* TabGNN: Multiplex Graph Neural Network for Tabular Data Prediction (DLP-KDD 2021): https://arxiv.org/abs/2108.09127
